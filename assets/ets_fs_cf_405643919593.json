@@ -1,0 +1,1004 @@
+{
+  "expired_at": 1660545868,
+  "time_zone": "UTC",
+  "data": {
+    "paginate": {
+      "total": 5,
+      "per_page": "12",
+      "current_page": 1,
+      "last_page": 1,
+      "data": [
+        {
+          "id": 7753280880873,
+          "title": "Vélez Sarsfield vs Atlético Tucumán Tickets",
+          "body_html": "<p><strong>-Official tickets<\/strong><br><strong> -Tickets together guaranteed<\/strong><br> -Location: Jose Amalfitani Stadium (Buenos Aires)<br> -Date: July 3<br> -Competition: Primera División Argentina<br> -Delivery: Depending on the match your tickets will be delivered by email or in person by a local guide.<br> <br> For more information contact us: sales@24x7tickets.com \/\/ (+34) 685 23 01 20<\/p>",
+          "vendor": "Football Host",
+          "product_type": "Tickets",
+          "created_at": "2022-06-15T13:16:48+02:00",
+          "handle": "velez-sarsfield-atletico-tucuman-primera-division-argentina-tickets",
+          "updated_at": "2022-06-16T12:20:03+02:00",
+          "published_at": "2022-06-15T13:16:47+02:00",
+          "template_suffix": "",
+          "status": "active",
+          "published_scope": "web",
+          "tags": "Tickets",
+          "admin_graphql_api_id": "gid:\/\/shopify\/Product\/7753280880873",
+          "variants": [
+            {
+              "id": 43233933885673,
+              "product_id": 7753280880873,
+              "title": "Shortside Standard",
+              "price": 120,
+              "sku": "20220703VEL04",
+              "position": 1,
+              "inventory_policy": "deny",
+              "compare_at_price": 0,
+              "fulfillment_service": "manual",
+              "inventory_management": "shopify",
+              "option1": "Shortside Standard",
+              "option2": null,
+              "option3": null,
+              "created_at": "2022-06-15T13:16:48+02:00",
+              "updated_at": "2022-06-16T12:20:03+02:00",
+              "taxable": true,
+              "barcode": null,
+              "grams": 0,
+              "image_id": 37847889871081,
+              "weight": 0,
+              "weight_unit": "kg",
+              "inventory_item_id": 45329350754537,
+              "inventory_quantity": 0,
+              "old_inventory_quantity": 0,
+              "requires_shipping": true,
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/43233933885673",
+              "percent_sale": 0
+            },
+            {
+              "id": 43233947189481,
+              "product_id": 7753280880873,
+              "title": "Longside Standard",
+              "price": 176,
+              "sku": "20220703VEL02",
+              "position": 2,
+              "inventory_policy": "deny",
+              "compare_at_price": 0,
+              "fulfillment_service": "manual",
+              "inventory_management": "shopify",
+              "option1": "Longside Standard",
+              "option2": null,
+              "option3": null,
+              "created_at": "2022-06-15T13:20:16+02:00",
+              "updated_at": "2022-06-16T12:20:03+02:00",
+              "taxable": true,
+              "barcode": null,
+              "grams": 0,
+              "image_id": 37847889314025,
+              "weight": 0,
+              "weight_unit": "kg",
+              "inventory_item_id": 45329364058345,
+              "inventory_quantity": 10,
+              "old_inventory_quantity": 10,
+              "requires_shipping": true,
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/43233947189481",
+              "percent_sale": 0
+            }
+          ],
+          "options": [
+            {
+              "id": 9849302089961,
+              "product_id": 7753280880873,
+              "name": "Category",
+              "position": 1,
+              "values": [
+                "Shortside Standard",
+                "Longside Standard"
+              ],
+              "label": "Category",
+              "key": "category",
+              "value": "Category"
+            }
+          ],
+          "images": [
+            {
+              "id": 37847889871081,
+              "product_id": 7753280880873,
+              "position": 1,
+              "created_at": "2022-06-16T12:19:50+02:00",
+              "updated_at": "2022-06-16T12:19:54+02:00",
+              "alt": null,
+              "width": 644,
+              "height": 600,
+              "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/shortside_standard_416e6851-1d35-4c31-92d1-b2c6026a47c7.jpg?v=1655374794",
+              "variant_ids": [
+                43233933885673
+              ],
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847889871081"
+            },
+            {
+              "id": 37847889314025,
+              "product_id": 7753280880873,
+              "position": 2,
+              "created_at": "2022-06-16T12:19:44+02:00",
+              "updated_at": "2022-06-16T12:19:54+02:00",
+              "alt": null,
+              "width": 644,
+              "height": 600,
+              "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/longisde_standard_7a8beaae-111c-4c54-8887-a7d7e814174d.jpg?v=1655374794",
+              "variant_ids": [
+                43233947189481
+              ],
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847889314025"
+            }
+          ],
+          "image": {
+            "id": 37847889871081,
+            "product_id": 7753280880873,
+            "position": 1,
+            "created_at": "2022-06-16T12:19:50+02:00",
+            "updated_at": "2022-06-16T12:19:54+02:00",
+            "alt": null,
+            "width": 644,
+            "height": 600,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/shortside_standard_416e6851-1d35-4c31-92d1-b2c6026a47c7.jpg?v=1655374794",
+            "variant_ids": [
+              43233933885673
+            ],
+            "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847889871081"
+          },
+          "shop_id": "62d14708cde2092c0801f832",
+          "ets_fs_type": "product",
+          "order_best_selling": 9999999999,
+          "collections": [
+            {
+              "ruleSet": null,
+              "ets_fs_type": "collection",
+              "description": "Team: The Vélez Sarsfield simply known as Vélez, was founded on January 1, 1910. In 1919, Vélez Sarsfield obtains his first ascent to First Division. In 1940 Vélez suffers his first and only descent of category. Was champion for the first time on December 29, 1968. Championships: National Tournament 1968, Tournament Closing 1993, Copa Libertadores de América 1994, Copa Europea Sudamericana - Intercontinental 1994, Tournament Apertura 1995, Inter-American Cup 1996, Tournament Closing 1996, Supercopa 1996, Recopa Sudamericana 1997, Tournament Closing 1998, Tournament Closing 2005, Closing Tournament 2009, Closing Tournament 2011, Initial Tournament 2012, SuperFinal Argentine Tournament 2012\/2013, Supercopa Argentina 2014. How to buy Velez Sarsfield tickets: Find your match, select your host and buy your Velez tickets! Stadium: The José Amalfitani stadium, popularly known as El Fortin, has a capacity of 49,540 people. It is located in the district of Liniers, Buenos Aires. Undoubtedly, one of the stadiums with the best panoramic view.Get your Jose Amalfitani tickets and enjoy the best neighbourhood football in Buenos Aires. The experience will be fantastic!",
+              "products_count": 5,
+              "handle": "velez-sarsfield-tickets-experiences",
+              "title": "Vélez Sarsfield Tickets & Experiences",
+              "fs_collection_type": "custom_collection",
+              "shop_id": "62d14708cde2092c0801f832",
+              "admin_graphql_api_id": "gid:\/\/shopify\/Collection\/405643919593",
+              "descriptionHtml": "<h2 style=\"text-align: left;\"><span data-mce-fragment=\"1\">Team:<\/span><\/h2>\n<p style=\"text-align: left;\"><span data-mce-fragment=\"1\">The <\/span><strong data-mce-fragment=\"1\">Vélez Sarsfield<\/strong><span data-mce-fragment=\"1\"> simply known as <\/span>Vélez<span data-mce-fragment=\"1\">, was founded on January 1, 1910. In 1919, Vélez Sarsfield obtains his first ascent to First Division.<\/span><\/p>\n<p style=\"text-align: left;\"><span data-mce-fragment=\"1\">In 1940 Vélez suffers his first and only descent of category. Was champion for the first time on December 29, 1968. Championships: National Tournament 1968, Tournament Closing 1993, Copa Libertadores de América 1994, Copa Europea Sudamericana - Intercontinental 1994, Tournament Apertura 1995, Inter-American Cup 1996, Tournament Closing 1996, Supercopa 1996, Recopa Sudamericana 1997, Tournament Closing 1998, Tournament Closing 2005, Closing Tournament 2009, Closing Tournament 2011, Initial Tournament 2012, SuperFinal Argentine Tournament 2012\/2013, Supercopa Argentina 2014.<\/span><\/p>\n<p style=\"text-align: left;\"><span data-mce-fragment=\"1\"><strong>How to buy Velez Sarsfield tickets<\/strong>: Find your match, select your host and buy your Velez tickets!<\/span><\/p>\n<h2 style=\"text-align: left;\"><span data-mce-fragment=\"1\">Stadium:<\/span><\/h2>\n<p style=\"text-align: left;\"><span>The <\/span><strong>José Amalfitani stadium<\/strong><span>, popularly known as <\/span><em>El Fortin<\/em><span>, has a capacity of 49,540 people. It is located in the district of Liniers, Buenos Aires. Undoubtedly, one of the stadiums with the best panoramic view.<\/span><br><br><span>Get your <\/span><strong>Jose Amalfitani tickets<\/strong><span> and enjoy the best neighbourhood football in Buenos Aires. The experience will be fantastic!<\/span><\/p>",
+              "id": "405643919593",
+              "productsCount": 5,
+              "total_products": 5,
+              "updatedAt": "2022-06-16T07:33:33Z",
+              "status": "active"
+            },
+            {
+              "ruleSet": {
+                "appliedDisjunctively": true
+              },
+              "ets_fs_type": "collection",
+              "description": "",
+              "products_count": 78,
+              "handle": "ets-fs-best-selling-products",
+              "title": "Best selling products (DO NOT DELETE)",
+              "fs_collection_type": "smart_collection",
+              "shop_id": "62d14708cde2092c0801f832",
+              "admin_graphql_api_id": "gid:\/\/shopify\/Collection\/407725605097",
+              "descriptionHtml": "",
+              "id": "407725605097",
+              "productsCount": 78,
+              "total_products": 78,
+              "updatedAt": "2022-07-15T12:10:48Z",
+              "status": "active"
+            }
+          ]
+        },
+        {
+          "id": 7753281143017,
+          "title": "Vélez Sarsfield vs Gimnasia Tickets",
+          "body_html": "<p><strong>-Official tickets<\/strong><br><strong> -Tickets together guaranteed<\/strong><br> -Location: Jose Amalfitani Stadium (Buenos Aires)<br> -Date: August 14<br> -Competition: Primera División Argentina<br> -Delivery: Depending on the match your tickets will be delivered by email or in person by a local guide.<br> <br> For more information contact us: sales@24x7tickets.com \/\/ (+34) 685 23 01 20<\/p>",
+          "vendor": "Football Host",
+          "product_type": "Tickets",
+          "created_at": "2022-06-15T13:16:53+02:00",
+          "handle": "velez-sarsfield-gimnasia-primera-division-argentina-tickets",
+          "updated_at": "2022-06-16T12:20:30+02:00",
+          "published_at": "2022-06-15T13:16:51+02:00",
+          "template_suffix": "",
+          "status": "active",
+          "published_scope": "web",
+          "tags": "Tickets",
+          "admin_graphql_api_id": "gid:\/\/shopify\/Product\/7753281143017",
+          "variants": [
+            {
+              "id": 43233934115049,
+              "product_id": 7753281143017,
+              "title": "Shortside Standard",
+              "price": 120,
+              "sku": "20220814VEL04",
+              "position": 1,
+              "inventory_policy": "deny",
+              "compare_at_price": 0,
+              "fulfillment_service": "manual",
+              "inventory_management": "shopify",
+              "option1": "Shortside Standard",
+              "option2": null,
+              "option3": null,
+              "created_at": "2022-06-15T13:16:53+02:00",
+              "updated_at": "2022-06-16T12:20:30+02:00",
+              "taxable": true,
+              "barcode": null,
+              "grams": 0,
+              "image_id": 37847892394217,
+              "weight": 0,
+              "weight_unit": "kg",
+              "inventory_item_id": 45329350983913,
+              "inventory_quantity": 0,
+              "old_inventory_quantity": 0,
+              "requires_shipping": true,
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/43233934115049",
+              "percent_sale": 0
+            },
+            {
+              "id": 43233947386089,
+              "product_id": 7753281143017,
+              "title": "Longside Standard",
+              "price": 176,
+              "sku": "20220814VEL02",
+              "position": 2,
+              "inventory_policy": "deny",
+              "compare_at_price": 0,
+              "fulfillment_service": "manual",
+              "inventory_management": "shopify",
+              "option1": "Longside Standard",
+              "option2": null,
+              "option3": null,
+              "created_at": "2022-06-15T13:20:22+02:00",
+              "updated_at": "2022-06-16T12:20:30+02:00",
+              "taxable": true,
+              "barcode": null,
+              "grams": 0,
+              "image_id": 37847891869929,
+              "weight": 0,
+              "weight_unit": "kg",
+              "inventory_item_id": 45329364254953,
+              "inventory_quantity": 10,
+              "old_inventory_quantity": 10,
+              "requires_shipping": true,
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/43233947386089",
+              "percent_sale": 0
+            }
+          ],
+          "options": [
+            {
+              "id": 9849302417641,
+              "product_id": 7753281143017,
+              "name": "Category",
+              "position": 1,
+              "values": [
+                "Shortside Standard",
+                "Longside Standard"
+              ],
+              "label": "Category",
+              "key": "category",
+              "value": "Category"
+            }
+          ],
+          "images": [
+            {
+              "id": 37847892394217,
+              "product_id": 7753281143017,
+              "position": 1,
+              "created_at": "2022-06-16T12:20:23+02:00",
+              "updated_at": "2022-06-16T12:20:24+02:00",
+              "alt": null,
+              "width": 644,
+              "height": 600,
+              "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/shortside_standard_1fe84820-6ebc-413b-871c-16c8929677b9.jpg?v=1655374824",
+              "variant_ids": [
+                43233934115049
+              ],
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847892394217"
+            },
+            {
+              "id": 37847891869929,
+              "product_id": 7753281143017,
+              "position": 2,
+              "created_at": "2022-06-16T12:20:18+02:00",
+              "updated_at": "2022-06-16T12:20:24+02:00",
+              "alt": null,
+              "width": 644,
+              "height": 600,
+              "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/longisde_standard_37780fcc-9f7b-4dcb-b616-dc87c204d700.jpg?v=1655374824",
+              "variant_ids": [
+                43233947386089
+              ],
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847891869929"
+            }
+          ],
+          "image": {
+            "id": 37847892394217,
+            "product_id": 7753281143017,
+            "position": 1,
+            "created_at": "2022-06-16T12:20:23+02:00",
+            "updated_at": "2022-06-16T12:20:24+02:00",
+            "alt": null,
+            "width": 644,
+            "height": 600,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/shortside_standard_1fe84820-6ebc-413b-871c-16c8929677b9.jpg?v=1655374824",
+            "variant_ids": [
+              43233934115049
+            ],
+            "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847892394217"
+          },
+          "shop_id": "62d14708cde2092c0801f832",
+          "ets_fs_type": "product",
+          "order_best_selling": 9999999999,
+          "collections": [
+            {
+              "ruleSet": null,
+              "ets_fs_type": "collection",
+              "description": "Team: The Vélez Sarsfield simply known as Vélez, was founded on January 1, 1910. In 1919, Vélez Sarsfield obtains his first ascent to First Division. In 1940 Vélez suffers his first and only descent of category. Was champion for the first time on December 29, 1968. Championships: National Tournament 1968, Tournament Closing 1993, Copa Libertadores de América 1994, Copa Europea Sudamericana - Intercontinental 1994, Tournament Apertura 1995, Inter-American Cup 1996, Tournament Closing 1996, Supercopa 1996, Recopa Sudamericana 1997, Tournament Closing 1998, Tournament Closing 2005, Closing Tournament 2009, Closing Tournament 2011, Initial Tournament 2012, SuperFinal Argentine Tournament 2012\/2013, Supercopa Argentina 2014. How to buy Velez Sarsfield tickets: Find your match, select your host and buy your Velez tickets! Stadium: The José Amalfitani stadium, popularly known as El Fortin, has a capacity of 49,540 people. It is located in the district of Liniers, Buenos Aires. Undoubtedly, one of the stadiums with the best panoramic view.Get your Jose Amalfitani tickets and enjoy the best neighbourhood football in Buenos Aires. The experience will be fantastic!",
+              "products_count": 5,
+              "handle": "velez-sarsfield-tickets-experiences",
+              "title": "Vélez Sarsfield Tickets & Experiences",
+              "fs_collection_type": "custom_collection",
+              "shop_id": "62d14708cde2092c0801f832",
+              "admin_graphql_api_id": "gid:\/\/shopify\/Collection\/405643919593",
+              "descriptionHtml": "<h2 style=\"text-align: left;\"><span data-mce-fragment=\"1\">Team:<\/span><\/h2>\n<p style=\"text-align: left;\"><span data-mce-fragment=\"1\">The <\/span><strong data-mce-fragment=\"1\">Vélez Sarsfield<\/strong><span data-mce-fragment=\"1\"> simply known as <\/span>Vélez<span data-mce-fragment=\"1\">, was founded on January 1, 1910. In 1919, Vélez Sarsfield obtains his first ascent to First Division.<\/span><\/p>\n<p style=\"text-align: left;\"><span data-mce-fragment=\"1\">In 1940 Vélez suffers his first and only descent of category. Was champion for the first time on December 29, 1968. Championships: National Tournament 1968, Tournament Closing 1993, Copa Libertadores de América 1994, Copa Europea Sudamericana - Intercontinental 1994, Tournament Apertura 1995, Inter-American Cup 1996, Tournament Closing 1996, Supercopa 1996, Recopa Sudamericana 1997, Tournament Closing 1998, Tournament Closing 2005, Closing Tournament 2009, Closing Tournament 2011, Initial Tournament 2012, SuperFinal Argentine Tournament 2012\/2013, Supercopa Argentina 2014.<\/span><\/p>\n<p style=\"text-align: left;\"><span data-mce-fragment=\"1\"><strong>How to buy Velez Sarsfield tickets<\/strong>: Find your match, select your host and buy your Velez tickets!<\/span><\/p>\n<h2 style=\"text-align: left;\"><span data-mce-fragment=\"1\">Stadium:<\/span><\/h2>\n<p style=\"text-align: left;\"><span>The <\/span><strong>José Amalfitani stadium<\/strong><span>, popularly known as <\/span><em>El Fortin<\/em><span>, has a capacity of 49,540 people. It is located in the district of Liniers, Buenos Aires. Undoubtedly, one of the stadiums with the best panoramic view.<\/span><br><br><span>Get your <\/span><strong>Jose Amalfitani tickets<\/strong><span> and enjoy the best neighbourhood football in Buenos Aires. The experience will be fantastic!<\/span><\/p>",
+              "id": "405643919593",
+              "productsCount": 5,
+              "total_products": 5,
+              "updatedAt": "2022-06-16T07:33:33Z",
+              "status": "active"
+            },
+            {
+              "ruleSet": {
+                "appliedDisjunctively": true
+              },
+              "ets_fs_type": "collection",
+              "description": "",
+              "products_count": 78,
+              "handle": "ets-fs-best-selling-products",
+              "title": "Best selling products (DO NOT DELETE)",
+              "fs_collection_type": "smart_collection",
+              "shop_id": "62d14708cde2092c0801f832",
+              "admin_graphql_api_id": "gid:\/\/shopify\/Collection\/407725605097",
+              "descriptionHtml": "",
+              "id": "407725605097",
+              "productsCount": 78,
+              "total_products": 78,
+              "updatedAt": "2022-07-15T12:10:48Z",
+              "status": "active"
+            }
+          ]
+        },
+        {
+          "id": 7753281110249,
+          "title": "Vélez Sarsfield vs Huracán Tickets",
+          "body_html": "<p><strong>-Official tickets<\/strong><br><strong> -Tickets together guaranteed<\/strong><br> -Location: Jose Amalfitani Stadium (Buenos Aires)<br> -Date: July 24<br> -Competition: Primera División Argentina<br> -Delivery: Depending on the match your tickets will be delivered by email or in person by a local guide.<br> <br> For more information contact us: sales@24x7tickets.com \/\/ (+34) 685 23 01 20<\/p>",
+          "vendor": "Football Host",
+          "product_type": "Tickets",
+          "created_at": "2022-06-15T13:16:51+02:00",
+          "handle": "velez-sarsfield-huracan-primera-division-argentina-tickets",
+          "updated_at": "2022-06-16T12:20:58+02:00",
+          "published_at": "2022-06-15T13:16:50+02:00",
+          "template_suffix": "",
+          "status": "active",
+          "published_scope": "web",
+          "tags": "Tickets",
+          "admin_graphql_api_id": "gid:\/\/shopify\/Product\/7753281110249",
+          "variants": [
+            {
+              "id": 43233934049513,
+              "product_id": 7753281110249,
+              "title": "Shortside Standard",
+              "price": 120,
+              "sku": "20220724VEL04",
+              "position": 1,
+              "inventory_policy": "deny",
+              "compare_at_price": 0,
+              "fulfillment_service": "manual",
+              "inventory_management": "shopify",
+              "option1": "Shortside Standard",
+              "option2": null,
+              "option3": null,
+              "created_at": "2022-06-15T13:16:51+02:00",
+              "updated_at": "2022-06-16T12:20:58+02:00",
+              "taxable": true,
+              "barcode": null,
+              "grams": 0,
+              "image_id": 37847894819049,
+              "weight": 0,
+              "weight_unit": "kg",
+              "inventory_item_id": 45329350918377,
+              "inventory_quantity": 0,
+              "old_inventory_quantity": 0,
+              "requires_shipping": true,
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/43233934049513",
+              "percent_sale": 0
+            },
+            {
+              "id": 43233947320553,
+              "product_id": 7753281110249,
+              "title": "Longside Standard",
+              "price": 176,
+              "sku": "20220724VEL02",
+              "position": 2,
+              "inventory_policy": "deny",
+              "compare_at_price": 0,
+              "fulfillment_service": "manual",
+              "inventory_management": "shopify",
+              "option1": "Longside Standard",
+              "option2": null,
+              "option3": null,
+              "created_at": "2022-06-15T13:20:20+02:00",
+              "updated_at": "2022-06-16T12:20:58+02:00",
+              "taxable": true,
+              "barcode": null,
+              "grams": 0,
+              "image_id": 37847895376105,
+              "weight": 0,
+              "weight_unit": "kg",
+              "inventory_item_id": 45329364189417,
+              "inventory_quantity": 10,
+              "old_inventory_quantity": 10,
+              "requires_shipping": true,
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/43233947320553",
+              "percent_sale": 0
+            }
+          ],
+          "options": [
+            {
+              "id": 9849302384873,
+              "product_id": 7753281110249,
+              "name": "Category",
+              "position": 1,
+              "values": [
+                "Shortside Standard",
+                "Longside Standard"
+              ],
+              "label": "Category",
+              "key": "category",
+              "value": "Category"
+            }
+          ],
+          "images": [
+            {
+              "id": 37847894819049,
+              "product_id": 7753281110249,
+              "position": 1,
+              "created_at": "2022-06-16T12:20:47+02:00",
+              "updated_at": "2022-06-16T12:20:47+02:00",
+              "alt": null,
+              "width": 644,
+              "height": 600,
+              "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/shortside_standard_497a6331-1ef9-4063-817c-9a8537e188dc.jpg?v=1655374847",
+              "variant_ids": [
+                43233934049513
+              ],
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847894819049"
+            },
+            {
+              "id": 37847895376105,
+              "product_id": 7753281110249,
+              "position": 2,
+              "created_at": "2022-06-16T12:20:50+02:00",
+              "updated_at": "2022-06-16T12:20:50+02:00",
+              "alt": null,
+              "width": 644,
+              "height": 600,
+              "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/longisde_standard_8a8d29ae-2f12-41fb-90d2-881e889e4bb6.jpg?v=1655374850",
+              "variant_ids": [
+                43233947320553
+              ],
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847895376105"
+            }
+          ],
+          "image": {
+            "id": 37847894819049,
+            "product_id": 7753281110249,
+            "position": 1,
+            "created_at": "2022-06-16T12:20:47+02:00",
+            "updated_at": "2022-06-16T12:20:47+02:00",
+            "alt": null,
+            "width": 644,
+            "height": 600,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/shortside_standard_497a6331-1ef9-4063-817c-9a8537e188dc.jpg?v=1655374847",
+            "variant_ids": [
+              43233934049513
+            ],
+            "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847894819049"
+          },
+          "shop_id": "62d14708cde2092c0801f832",
+          "ets_fs_type": "product",
+          "order_best_selling": 9999999999,
+          "collections": [
+            {
+              "ruleSet": null,
+              "ets_fs_type": "collection",
+              "description": "Team: The Vélez Sarsfield simply known as Vélez, was founded on January 1, 1910. In 1919, Vélez Sarsfield obtains his first ascent to First Division. In 1940 Vélez suffers his first and only descent of category. Was champion for the first time on December 29, 1968. Championships: National Tournament 1968, Tournament Closing 1993, Copa Libertadores de América 1994, Copa Europea Sudamericana - Intercontinental 1994, Tournament Apertura 1995, Inter-American Cup 1996, Tournament Closing 1996, Supercopa 1996, Recopa Sudamericana 1997, Tournament Closing 1998, Tournament Closing 2005, Closing Tournament 2009, Closing Tournament 2011, Initial Tournament 2012, SuperFinal Argentine Tournament 2012\/2013, Supercopa Argentina 2014. How to buy Velez Sarsfield tickets: Find your match, select your host and buy your Velez tickets! Stadium: The José Amalfitani stadium, popularly known as El Fortin, has a capacity of 49,540 people. It is located in the district of Liniers, Buenos Aires. Undoubtedly, one of the stadiums with the best panoramic view.Get your Jose Amalfitani tickets and enjoy the best neighbourhood football in Buenos Aires. The experience will be fantastic!",
+              "products_count": 5,
+              "handle": "velez-sarsfield-tickets-experiences",
+              "title": "Vélez Sarsfield Tickets & Experiences",
+              "fs_collection_type": "custom_collection",
+              "shop_id": "62d14708cde2092c0801f832",
+              "admin_graphql_api_id": "gid:\/\/shopify\/Collection\/405643919593",
+              "descriptionHtml": "<h2 style=\"text-align: left;\"><span data-mce-fragment=\"1\">Team:<\/span><\/h2>\n<p style=\"text-align: left;\"><span data-mce-fragment=\"1\">The <\/span><strong data-mce-fragment=\"1\">Vélez Sarsfield<\/strong><span data-mce-fragment=\"1\"> simply known as <\/span>Vélez<span data-mce-fragment=\"1\">, was founded on January 1, 1910. In 1919, Vélez Sarsfield obtains his first ascent to First Division.<\/span><\/p>\n<p style=\"text-align: left;\"><span data-mce-fragment=\"1\">In 1940 Vélez suffers his first and only descent of category. Was champion for the first time on December 29, 1968. Championships: National Tournament 1968, Tournament Closing 1993, Copa Libertadores de América 1994, Copa Europea Sudamericana - Intercontinental 1994, Tournament Apertura 1995, Inter-American Cup 1996, Tournament Closing 1996, Supercopa 1996, Recopa Sudamericana 1997, Tournament Closing 1998, Tournament Closing 2005, Closing Tournament 2009, Closing Tournament 2011, Initial Tournament 2012, SuperFinal Argentine Tournament 2012\/2013, Supercopa Argentina 2014.<\/span><\/p>\n<p style=\"text-align: left;\"><span data-mce-fragment=\"1\"><strong>How to buy Velez Sarsfield tickets<\/strong>: Find your match, select your host and buy your Velez tickets!<\/span><\/p>\n<h2 style=\"text-align: left;\"><span data-mce-fragment=\"1\">Stadium:<\/span><\/h2>\n<p style=\"text-align: left;\"><span>The <\/span><strong>José Amalfitani stadium<\/strong><span>, popularly known as <\/span><em>El Fortin<\/em><span>, has a capacity of 49,540 people. It is located in the district of Liniers, Buenos Aires. Undoubtedly, one of the stadiums with the best panoramic view.<\/span><br><br><span>Get your <\/span><strong>Jose Amalfitani tickets<\/strong><span> and enjoy the best neighbourhood football in Buenos Aires. The experience will be fantastic!<\/span><\/p>",
+              "id": "405643919593",
+              "productsCount": 5,
+              "total_products": 5,
+              "updatedAt": "2022-06-16T07:33:33Z",
+              "status": "active"
+            },
+            {
+              "ruleSet": {
+                "appliedDisjunctively": true
+              },
+              "ets_fs_type": "collection",
+              "description": "",
+              "products_count": 78,
+              "handle": "ets-fs-best-selling-products",
+              "title": "Best selling products (DO NOT DELETE)",
+              "fs_collection_type": "smart_collection",
+              "shop_id": "62d14708cde2092c0801f832",
+              "admin_graphql_api_id": "gid:\/\/shopify\/Collection\/407725605097",
+              "descriptionHtml": "",
+              "id": "407725605097",
+              "productsCount": 78,
+              "total_products": 78,
+              "updatedAt": "2022-07-15T12:10:48Z",
+              "status": "active"
+            }
+          ]
+        },
+        {
+          "id": 7753280913641,
+          "title": "Vélez Sarsfield vs River Plate Tickets",
+          "body_html": "<p><strong>-Official tickets<\/strong><br><strong> -Tickets together guaranteed<\/strong><br> -Location: Jose Amalfitani Stadium (Buenos Aires)<br> -Date: July 17<br> -Competition: Primera División Argentina<br> -Delivery: Depending on the match your tickets will be delivered by email or in person by a local guide.<br> <br> For more information contact us: sales@24x7tickets.com \/\/ (+34) 685 23 01 20<\/p>",
+          "vendor": "Football Host",
+          "product_type": "Tickets",
+          "created_at": "2022-06-15T13:16:49+02:00",
+          "handle": "velez-sarsfield-river-plate-primera-division-argentina-tickets",
+          "updated_at": "2022-06-16T12:21:54+02:00",
+          "published_at": "2022-06-15T13:16:49+02:00",
+          "template_suffix": "",
+          "status": "active",
+          "published_scope": "web",
+          "tags": "Tickets",
+          "admin_graphql_api_id": "gid:\/\/shopify\/Product\/7753280913641",
+          "variants": [
+            {
+              "id": 43233933918441,
+              "product_id": 7753280913641,
+              "title": "Shortside Standard",
+              "price": 180,
+              "sku": "20220717VEL04",
+              "position": 1,
+              "inventory_policy": "deny",
+              "compare_at_price": 0,
+              "fulfillment_service": "manual",
+              "inventory_management": "shopify",
+              "option1": "Shortside Standard",
+              "option2": null,
+              "option3": null,
+              "created_at": "2022-06-15T13:16:49+02:00",
+              "updated_at": "2022-06-16T12:21:54+02:00",
+              "taxable": true,
+              "barcode": null,
+              "grams": 0,
+              "image_id": 37847898620137,
+              "weight": 0,
+              "weight_unit": "kg",
+              "inventory_item_id": 45329350787305,
+              "inventory_quantity": 0,
+              "old_inventory_quantity": 0,
+              "requires_shipping": true,
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/43233933918441",
+              "percent_sale": 0
+            },
+            {
+              "id": 43233947287785,
+              "product_id": 7753280913641,
+              "title": "Longside Standard",
+              "price": 240,
+              "sku": "20220717VEL02",
+              "position": 2,
+              "inventory_policy": "deny",
+              "compare_at_price": 0,
+              "fulfillment_service": "manual",
+              "inventory_management": "shopify",
+              "option1": "Longside Standard",
+              "option2": null,
+              "option3": null,
+              "created_at": "2022-06-15T13:20:18+02:00",
+              "updated_at": "2022-06-16T12:21:54+02:00",
+              "taxable": true,
+              "barcode": null,
+              "grams": 0,
+              "image_id": 37847897997545,
+              "weight": 0,
+              "weight_unit": "kg",
+              "inventory_item_id": 45329364156649,
+              "inventory_quantity": 10,
+              "old_inventory_quantity": 10,
+              "requires_shipping": true,
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/43233947287785",
+              "percent_sale": 0
+            }
+          ],
+          "options": [
+            {
+              "id": 9849302122729,
+              "product_id": 7753280913641,
+              "name": "Category",
+              "position": 1,
+              "values": [
+                "Shortside Standard",
+                "Longside Standard"
+              ],
+              "label": "Category",
+              "key": "category",
+              "value": "Category"
+            }
+          ],
+          "images": [
+            {
+              "id": 37847898620137,
+              "product_id": 7753280913641,
+              "position": 1,
+              "created_at": "2022-06-16T12:21:44+02:00",
+              "updated_at": "2022-06-16T12:21:48+02:00",
+              "alt": null,
+              "width": 644,
+              "height": 600,
+              "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/shortside_standard_44cd6bcd-aa20-474c-b427-27c86fc53d8e.jpg?v=1655374908",
+              "variant_ids": [
+                43233933918441
+              ],
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847898620137"
+            },
+            {
+              "id": 37847897997545,
+              "product_id": 7753280913641,
+              "position": 2,
+              "created_at": "2022-06-16T12:21:30+02:00",
+              "updated_at": "2022-06-16T12:21:48+02:00",
+              "alt": null,
+              "width": 644,
+              "height": 600,
+              "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/longisde_standard_8634c486-5122-4040-b37a-8625f93f8c55.jpg?v=1655374908",
+              "variant_ids": [
+                43233947287785
+              ],
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847897997545"
+            }
+          ],
+          "image": {
+            "id": 37847898620137,
+            "product_id": 7753280913641,
+            "position": 1,
+            "created_at": "2022-06-16T12:21:44+02:00",
+            "updated_at": "2022-06-16T12:21:48+02:00",
+            "alt": null,
+            "width": 644,
+            "height": 600,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/shortside_standard_44cd6bcd-aa20-474c-b427-27c86fc53d8e.jpg?v=1655374908",
+            "variant_ids": [
+              43233933918441
+            ],
+            "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847898620137"
+          },
+          "shop_id": "62d14708cde2092c0801f832",
+          "ets_fs_type": "product",
+          "order_best_selling": 9999999999,
+          "collections": [
+            {
+              "ruleSet": null,
+              "ets_fs_type": "collection",
+              "description": "Team: The Vélez Sarsfield simply known as Vélez, was founded on January 1, 1910. In 1919, Vélez Sarsfield obtains his first ascent to First Division. In 1940 Vélez suffers his first and only descent of category. Was champion for the first time on December 29, 1968. Championships: National Tournament 1968, Tournament Closing 1993, Copa Libertadores de América 1994, Copa Europea Sudamericana - Intercontinental 1994, Tournament Apertura 1995, Inter-American Cup 1996, Tournament Closing 1996, Supercopa 1996, Recopa Sudamericana 1997, Tournament Closing 1998, Tournament Closing 2005, Closing Tournament 2009, Closing Tournament 2011, Initial Tournament 2012, SuperFinal Argentine Tournament 2012\/2013, Supercopa Argentina 2014. How to buy Velez Sarsfield tickets: Find your match, select your host and buy your Velez tickets! Stadium: The José Amalfitani stadium, popularly known as El Fortin, has a capacity of 49,540 people. It is located in the district of Liniers, Buenos Aires. Undoubtedly, one of the stadiums with the best panoramic view.Get your Jose Amalfitani tickets and enjoy the best neighbourhood football in Buenos Aires. The experience will be fantastic!",
+              "products_count": 5,
+              "handle": "velez-sarsfield-tickets-experiences",
+              "title": "Vélez Sarsfield Tickets & Experiences",
+              "fs_collection_type": "custom_collection",
+              "shop_id": "62d14708cde2092c0801f832",
+              "admin_graphql_api_id": "gid:\/\/shopify\/Collection\/405643919593",
+              "descriptionHtml": "<h2 style=\"text-align: left;\"><span data-mce-fragment=\"1\">Team:<\/span><\/h2>\n<p style=\"text-align: left;\"><span data-mce-fragment=\"1\">The <\/span><strong data-mce-fragment=\"1\">Vélez Sarsfield<\/strong><span data-mce-fragment=\"1\"> simply known as <\/span>Vélez<span data-mce-fragment=\"1\">, was founded on January 1, 1910. In 1919, Vélez Sarsfield obtains his first ascent to First Division.<\/span><\/p>\n<p style=\"text-align: left;\"><span data-mce-fragment=\"1\">In 1940 Vélez suffers his first and only descent of category. Was champion for the first time on December 29, 1968. Championships: National Tournament 1968, Tournament Closing 1993, Copa Libertadores de América 1994, Copa Europea Sudamericana - Intercontinental 1994, Tournament Apertura 1995, Inter-American Cup 1996, Tournament Closing 1996, Supercopa 1996, Recopa Sudamericana 1997, Tournament Closing 1998, Tournament Closing 2005, Closing Tournament 2009, Closing Tournament 2011, Initial Tournament 2012, SuperFinal Argentine Tournament 2012\/2013, Supercopa Argentina 2014.<\/span><\/p>\n<p style=\"text-align: left;\"><span data-mce-fragment=\"1\"><strong>How to buy Velez Sarsfield tickets<\/strong>: Find your match, select your host and buy your Velez tickets!<\/span><\/p>\n<h2 style=\"text-align: left;\"><span data-mce-fragment=\"1\">Stadium:<\/span><\/h2>\n<p style=\"text-align: left;\"><span>The <\/span><strong>José Amalfitani stadium<\/strong><span>, popularly known as <\/span><em>El Fortin<\/em><span>, has a capacity of 49,540 people. It is located in the district of Liniers, Buenos Aires. Undoubtedly, one of the stadiums with the best panoramic view.<\/span><br><br><span>Get your <\/span><strong>Jose Amalfitani tickets<\/strong><span> and enjoy the best neighbourhood football in Buenos Aires. The experience will be fantastic!<\/span><\/p>",
+              "id": "405643919593",
+              "productsCount": 5,
+              "total_products": 5,
+              "updatedAt": "2022-06-16T07:33:33Z",
+              "status": "active"
+            },
+            {
+              "ruleSet": {
+                "appliedDisjunctively": true
+              },
+              "ets_fs_type": "collection",
+              "description": "",
+              "products_count": 78,
+              "handle": "ets-fs-best-selling-products",
+              "title": "Best selling products (DO NOT DELETE)",
+              "fs_collection_type": "smart_collection",
+              "shop_id": "62d14708cde2092c0801f832",
+              "admin_graphql_api_id": "gid:\/\/shopify\/Collection\/407725605097",
+              "descriptionHtml": "",
+              "id": "407725605097",
+              "productsCount": 78,
+              "total_products": 78,
+              "updatedAt": "2022-07-15T12:10:48Z",
+              "status": "active"
+            }
+          ]
+        },
+        {
+          "id": 7753280782569,
+          "title": "Vélez Sarsfield vs Rosario Central Tickets",
+          "body_html": "<p><strong>-Official tickets<\/strong><br><strong> -Tickets together guaranteed<\/strong><br> -Location: Jose Amalfitani Stadium (Buenos Aires)<br> -Date: June 21<br> -Competition: Primera División Argentina<br> -Delivery: Depending on the match your tickets will be delivered by email or in person by a local guide.<br> <br> For more information contact us: sales@24x7tickets.com \/\/ (+34) 685 23 01 20<\/p>",
+          "vendor": "Football Host",
+          "product_type": "Tickets",
+          "created_at": "2022-06-15T13:16:46+02:00",
+          "handle": "velez-sarsfield-rosario-central-primera-division-argentina-tickets",
+          "updated_at": "2022-06-16T12:22:26+02:00",
+          "published_at": "2022-06-15T13:16:45+02:00",
+          "template_suffix": "",
+          "status": "active",
+          "published_scope": "web",
+          "tags": "Tickets",
+          "admin_graphql_api_id": "gid:\/\/shopify\/Product\/7753280782569",
+          "variants": [
+            {
+              "id": 43233933787369,
+              "product_id": 7753280782569,
+              "title": "Shortside Standard",
+              "price": 120,
+              "sku": "20220621VEL04",
+              "position": 1,
+              "inventory_policy": "deny",
+              "compare_at_price": 0,
+              "fulfillment_service": "manual",
+              "inventory_management": "shopify",
+              "option1": "Shortside Standard",
+              "option2": null,
+              "option3": null,
+              "created_at": "2022-06-15T13:16:46+02:00",
+              "updated_at": "2022-06-16T12:22:26+02:00",
+              "taxable": true,
+              "barcode": null,
+              "grams": 0,
+              "image_id": 37847899144425,
+              "weight": 0,
+              "weight_unit": "kg",
+              "inventory_item_id": 45329350656233,
+              "inventory_quantity": 0,
+              "old_inventory_quantity": 0,
+              "requires_shipping": true,
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/43233933787369",
+              "percent_sale": 0
+            },
+            {
+              "id": 43233946960105,
+              "product_id": 7753280782569,
+              "title": "Longside Standard",
+              "price": 176,
+              "sku": "20220621VEL02",
+              "position": 2,
+              "inventory_policy": "deny",
+              "compare_at_price": 0,
+              "fulfillment_service": "manual",
+              "inventory_management": "shopify",
+              "option1": "Longside Standard",
+              "option2": null,
+              "option3": null,
+              "created_at": "2022-06-15T13:20:14+02:00",
+              "updated_at": "2022-06-16T12:22:26+02:00",
+              "taxable": true,
+              "barcode": null,
+              "grams": 0,
+              "image_id": 37847899341033,
+              "weight": 0,
+              "weight_unit": "kg",
+              "inventory_item_id": 45329363828969,
+              "inventory_quantity": 10,
+              "old_inventory_quantity": 10,
+              "requires_shipping": true,
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/43233946960105",
+              "percent_sale": 0
+            }
+          ],
+          "options": [
+            {
+              "id": 9849301991657,
+              "product_id": 7753280782569,
+              "name": "Category",
+              "position": 1,
+              "values": [
+                "Shortside Standard",
+                "Longside Standard"
+              ],
+              "label": "Category",
+              "key": "category",
+              "value": "Category"
+            }
+          ],
+          "images": [
+            {
+              "id": 37847899144425,
+              "product_id": 7753280782569,
+              "position": 1,
+              "created_at": "2022-06-16T12:22:13+02:00",
+              "updated_at": "2022-06-16T12:22:13+02:00",
+              "alt": null,
+              "width": 644,
+              "height": 600,
+              "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/shortside_standard_94f91681-6b5b-43a1-8f33-e59194d7e73a.jpg?v=1655374933",
+              "variant_ids": [
+                43233933787369
+              ],
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847899144425"
+            },
+            {
+              "id": 37847899341033,
+              "product_id": 7753280782569,
+              "position": 2,
+              "created_at": "2022-06-16T12:22:20+02:00",
+              "updated_at": "2022-06-16T12:22:20+02:00",
+              "alt": null,
+              "width": 644,
+              "height": 600,
+              "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/longisde_standard_afc0d8b5-1cfd-491c-9a14-7a15124d7bc3.jpg?v=1655374940",
+              "variant_ids": [
+                43233946960105
+              ],
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847899341033"
+            }
+          ],
+          "image": {
+            "id": 37847899144425,
+            "product_id": 7753280782569,
+            "position": 1,
+            "created_at": "2022-06-16T12:22:13+02:00",
+            "updated_at": "2022-06-16T12:22:13+02:00",
+            "alt": null,
+            "width": 644,
+            "height": 600,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/shortside_standard_94f91681-6b5b-43a1-8f33-e59194d7e73a.jpg?v=1655374933",
+            "variant_ids": [
+              43233933787369
+            ],
+            "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847899144425"
+          },
+          "shop_id": "62d14708cde2092c0801f832",
+          "ets_fs_type": "product",
+          "order_best_selling": 9999999999,
+          "collections": [
+            {
+              "ruleSet": null,
+              "ets_fs_type": "collection",
+              "description": "Team: The Vélez Sarsfield simply known as Vélez, was founded on January 1, 1910. In 1919, Vélez Sarsfield obtains his first ascent to First Division. In 1940 Vélez suffers his first and only descent of category. Was champion for the first time on December 29, 1968. Championships: National Tournament 1968, Tournament Closing 1993, Copa Libertadores de América 1994, Copa Europea Sudamericana - Intercontinental 1994, Tournament Apertura 1995, Inter-American Cup 1996, Tournament Closing 1996, Supercopa 1996, Recopa Sudamericana 1997, Tournament Closing 1998, Tournament Closing 2005, Closing Tournament 2009, Closing Tournament 2011, Initial Tournament 2012, SuperFinal Argentine Tournament 2012\/2013, Supercopa Argentina 2014. How to buy Velez Sarsfield tickets: Find your match, select your host and buy your Velez tickets! Stadium: The José Amalfitani stadium, popularly known as El Fortin, has a capacity of 49,540 people. It is located in the district of Liniers, Buenos Aires. Undoubtedly, one of the stadiums with the best panoramic view.Get your Jose Amalfitani tickets and enjoy the best neighbourhood football in Buenos Aires. The experience will be fantastic!",
+              "products_count": 5,
+              "handle": "velez-sarsfield-tickets-experiences",
+              "title": "Vélez Sarsfield Tickets & Experiences",
+              "fs_collection_type": "custom_collection",
+              "shop_id": "62d14708cde2092c0801f832",
+              "admin_graphql_api_id": "gid:\/\/shopify\/Collection\/405643919593",
+              "descriptionHtml": "<h2 style=\"text-align: left;\"><span data-mce-fragment=\"1\">Team:<\/span><\/h2>\n<p style=\"text-align: left;\"><span data-mce-fragment=\"1\">The <\/span><strong data-mce-fragment=\"1\">Vélez Sarsfield<\/strong><span data-mce-fragment=\"1\"> simply known as <\/span>Vélez<span data-mce-fragment=\"1\">, was founded on January 1, 1910. In 1919, Vélez Sarsfield obtains his first ascent to First Division.<\/span><\/p>\n<p style=\"text-align: left;\"><span data-mce-fragment=\"1\">In 1940 Vélez suffers his first and only descent of category. Was champion for the first time on December 29, 1968. Championships: National Tournament 1968, Tournament Closing 1993, Copa Libertadores de América 1994, Copa Europea Sudamericana - Intercontinental 1994, Tournament Apertura 1995, Inter-American Cup 1996, Tournament Closing 1996, Supercopa 1996, Recopa Sudamericana 1997, Tournament Closing 1998, Tournament Closing 2005, Closing Tournament 2009, Closing Tournament 2011, Initial Tournament 2012, SuperFinal Argentine Tournament 2012\/2013, Supercopa Argentina 2014.<\/span><\/p>\n<p style=\"text-align: left;\"><span data-mce-fragment=\"1\"><strong>How to buy Velez Sarsfield tickets<\/strong>: Find your match, select your host and buy your Velez tickets!<\/span><\/p>\n<h2 style=\"text-align: left;\"><span data-mce-fragment=\"1\">Stadium:<\/span><\/h2>\n<p style=\"text-align: left;\"><span>The <\/span><strong>José Amalfitani stadium<\/strong><span>, popularly known as <\/span><em>El Fortin<\/em><span>, has a capacity of 49,540 people. It is located in the district of Liniers, Buenos Aires. Undoubtedly, one of the stadiums with the best panoramic view.<\/span><br><br><span>Get your <\/span><strong>Jose Amalfitani tickets<\/strong><span> and enjoy the best neighbourhood football in Buenos Aires. The experience will be fantastic!<\/span><\/p>",
+              "id": "405643919593",
+              "productsCount": 5,
+              "total_products": 5,
+              "updatedAt": "2022-06-16T07:33:33Z",
+              "status": "active"
+            },
+            {
+              "ruleSet": {
+                "appliedDisjunctively": true
+              },
+              "ets_fs_type": "collection",
+              "description": "",
+              "products_count": 78,
+              "handle": "ets-fs-best-selling-products",
+              "title": "Best selling products (DO NOT DELETE)",
+              "fs_collection_type": "smart_collection",
+              "shop_id": "62d14708cde2092c0801f832",
+              "admin_graphql_api_id": "gid:\/\/shopify\/Collection\/407725605097",
+              "descriptionHtml": "",
+              "id": "407725605097",
+              "productsCount": 78,
+              "total_products": 78,
+              "updatedAt": "2022-07-15T12:10:48Z",
+              "status": "active"
+            }
+          ]
+        }
+      ]
+    },
+    "filters": [
+      {
+        "user_id": "62d14708cde2092c0801f832",
+        "filter_information": {
+          "active": 1,
+          "show_out_of_stock": 0,
+          "filter_name": "Tickets\/Experiences",
+          "collection_applied": [
+            "404858110185"
+          ]
+        },
+        "list_filter_options": [
+          {
+            "filter_type": "type",
+            "filter_enable": true,
+            "filter_label": "Type",
+            "filter_description": "test",
+            "filter_display_type": "checkbox",
+            "filter_sort_by": "most_product",
+            "filter_uppercase_values": 0,
+            "filter_ranger_price": {
+              "ranger": 1,
+              "step": 1,
+              "delimiter": ",",
+              "show_ranger": true,
+              "from": "",
+              "to": 995
+            },
+            "filter_ranger_weight": {
+              "ranger": 1,
+              "step": 1,
+              "delimiter": ",",
+              "show_ranger": true,
+              "from": "",
+              "to": ""
+            },
+            "filter_percent_sale": [
+              {
+                "from": 10,
+                "to": ""
+              }
+            ],
+            "filter_stock_status": {
+              "instock": "In-stock",
+              "outStock": "Out of stock"
+            },
+            "filter_color_start": "#FFD117",
+            "filter_option_value": [
+
+            ],
+            "filter_option_value_type": "text",
+            "filter_swatch_style": "square",
+            "filter_vendors_applied": [
+
+            ],
+            "filter_types_applied": [
+              "experiences",
+              "tickets"
+            ],
+            "filter_tags_applied": [
+
+            ],
+            "filter_type_default": 1,
+            "filter_collection_applied": [
+
+            ],
+            "filter_collection_behavior": "default",
+            "filter_position": 0,
+            "id_option_filter": 1,
+            "filter_list": [
+              {
+                "label": "Tickets",
+                "value": "Tickets",
+                "key": "tickets",
+                "total_products": 33,
+                "title": "Tickets",
+                "id": "Tickets"
+              },
+              {
+                "label": "Experiences",
+                "value": "Experiences",
+                "key": "experiences",
+                "total_products": 1,
+                "title": "Experiences",
+                "id": "Experiences"
+              }
+            ],
+            "filter_type_key": "list"
+          }
+        ],
+        "updated_at": "2022-07-18T10:11:48.853000Z",
+        "created_at": "2022-07-18T10:07:48.485000Z",
+        "id": "62d530f4b24fbfe0c8021b52"
+      }
+    ]
+  }
+}

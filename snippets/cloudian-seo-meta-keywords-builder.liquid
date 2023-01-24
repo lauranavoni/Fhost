@@ -1,0 +1,30 @@
+{%- comment -%}
+This file has been modified by the Yoast SEO for Shopify app.
+You can learn more about this (and learn how to cleanly revert these changes) at https://yoa.st/removing-theme-changes.
+{%- endcomment -%}
+{%- liquid
+	assign disabled_by_yoast_seo = true
+	if content_for_header contains 'yoast-active-script'
+		assign disabled_by_yoast_seo = false
+	endif
+-%}
+{% if shop.metafields.cloudian-seo-keyword.status == 1 %}
+<!-- The HTML Meta Keywords Builder app is now Enabled -->
+{% elsif shop.metafields.cloudian-seo-keyword.status == 0 %}
+<!-- The HTML Meta Keywords Builder app is now Disabled -->
+{% endif %}
+{% if content_for_header contains "sapp.cloudianseo" %}
+  {% if shop.metafields.cloudian-seo-keyword.status == 1 %}
+  {%- liquid
+    assign keywords = ''
+    if request.page_type == 'index'
+      assign keywords = shop.metafields.cloudian-seo-keyword.keywords
+    endif
+  %}
+{%- comment -%}Auto-disabled. Yoast plugin is taking care of Meta Tags output.{%- endcomment -%}
+{%- if disabled_by_yoast_seo -%}
+<meta name="keywords" content="{{ keywords }}">
+{%- comment -%} End Yoast auto-disable. {%- endcomment -%}
+{%- endif -%}
+  {% endif %}
+{% endif %}

@@ -1,0 +1,1004 @@
+{
+  "expired_at": 1658380097,
+  "time_zone": "UTC",
+  "data": {
+    "paginate": {
+      "total": 5,
+      "per_page": "12",
+      "current_page": 1,
+      "last_page": 1,
+      "data": [
+        {
+          "id": 7753132867817,
+          "title": "Independiente vs Atlético Tucumán Tickets",
+          "body_html": "<p><strong>-Official tickets<\/strong><br><strong> -Tickets together guaranteed<\/strong><br> -Location: Libertadores de América Stadium (Avellaneda)<br> -Date: July 24<br> -Competition: Primera División Argentina<br> -Delivery: Depending on the match your tickets will be delivered by email or in person by a local guide.<br> <br> For more information contact us: sales@24x7tickets.com \/\/ (+34) 685 23 01 20<\/p>",
+          "vendor": "Football Host",
+          "product_type": "Tickets",
+          "created_at": "2022-06-15T11:10:39+02:00",
+          "handle": "independiente-atletico-tucuman-primera-division-argentina-tickets",
+          "updated_at": "2022-06-16T12:26:25+02:00",
+          "published_at": "2022-06-15T11:10:37+02:00",
+          "template_suffix": "",
+          "status": "active",
+          "published_scope": "web",
+          "tags": "Tickets",
+          "admin_graphql_api_id": "gid:\/\/shopify\/Product\/7753132867817",
+          "variants": [
+            {
+              "id": 43233494925545,
+              "product_id": 7753132867817,
+              "title": "Shortside Standard",
+              "price": 120,
+              "sku": "20220724IND04",
+              "position": 1,
+              "inventory_policy": "deny",
+              "compare_at_price": 0,
+              "fulfillment_service": "manual",
+              "inventory_management": "shopify",
+              "option1": "Shortside Standard",
+              "option2": null,
+              "option3": null,
+              "created_at": "2022-06-15T11:10:39+02:00",
+              "updated_at": "2022-06-16T12:26:25+02:00",
+              "taxable": true,
+              "barcode": null,
+              "grams": 0,
+              "image_id": 37847912481001,
+              "weight": 0,
+              "weight_unit": "kg",
+              "inventory_item_id": 45328911630569,
+              "inventory_quantity": 0,
+              "old_inventory_quantity": 0,
+              "requires_shipping": true,
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/43233494925545",
+              "percent_sale": 0
+            },
+            {
+              "id": 43233494958313,
+              "product_id": 7753132867817,
+              "title": "Longside Standard",
+              "price": 176,
+              "sku": "20220724IND02",
+              "position": 2,
+              "inventory_policy": "deny",
+              "compare_at_price": 0,
+              "fulfillment_service": "manual",
+              "inventory_management": "shopify",
+              "option1": "Longside Standard",
+              "option2": null,
+              "option3": null,
+              "created_at": "2022-06-15T11:10:39+02:00",
+              "updated_at": "2022-06-16T12:26:25+02:00",
+              "taxable": true,
+              "barcode": null,
+              "grams": 0,
+              "image_id": 37847912186089,
+              "weight": 0,
+              "weight_unit": "kg",
+              "inventory_item_id": 45328911663337,
+              "inventory_quantity": 10,
+              "old_inventory_quantity": 10,
+              "requires_shipping": true,
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/43233494958313",
+              "percent_sale": 0
+            }
+          ],
+          "options": [
+            {
+              "id": 9849115967721,
+              "product_id": 7753132867817,
+              "name": "Category",
+              "position": 1,
+              "values": [
+                "Shortside Standard",
+                "Longside Standard"
+              ],
+              "label": "Category",
+              "key": "category",
+              "value": "Category"
+            }
+          ],
+          "images": [
+            {
+              "id": 37847912481001,
+              "product_id": 7753132867817,
+              "position": 1,
+              "created_at": "2022-06-16T12:26:17+02:00",
+              "updated_at": "2022-06-16T12:26:18+02:00",
+              "alt": null,
+              "width": 644,
+              "height": 600,
+              "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/shortside_standard_f4643c10-7c08-491b-af7e-929260ab2d3f.jpg?v=1655375178",
+              "variant_ids": [
+                43233494925545
+              ],
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847912481001"
+            },
+            {
+              "id": 37847912186089,
+              "product_id": 7753132867817,
+              "position": 2,
+              "created_at": "2022-06-16T12:26:12+02:00",
+              "updated_at": "2022-06-16T12:26:18+02:00",
+              "alt": null,
+              "width": 644,
+              "height": 600,
+              "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/longisde_standard_150b83e1-1c9d-44d2-aaae-f83f7adc7812.jpg?v=1655375178",
+              "variant_ids": [
+                43233494958313
+              ],
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847912186089"
+            }
+          ],
+          "image": {
+            "id": 37847912481001,
+            "product_id": 7753132867817,
+            "position": 1,
+            "created_at": "2022-06-16T12:26:17+02:00",
+            "updated_at": "2022-06-16T12:26:18+02:00",
+            "alt": null,
+            "width": 644,
+            "height": 600,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/shortside_standard_f4643c10-7c08-491b-af7e-929260ab2d3f.jpg?v=1655375178",
+            "variant_ids": [
+              43233494925545
+            ],
+            "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847912481001"
+          },
+          "shop_id": "62d14708cde2092c0801f832",
+          "ets_fs_type": "product",
+          "order_best_selling": 9999999999,
+          "collections": [
+            {
+              "ruleSet": null,
+              "ets_fs_type": "collection",
+              "description": "TEAM: The Club Atlético Independiente, popularly known as Independiente or Independiente de Avellaneda, was founded on January 1, 1905 in the city of Avellaneda, Buenos Aires. It is one of the most important teams in America thanks to its history. He is the maximum winner of the \"Copa Libertadores de America\" ​​with 7 won championships. I also won: 3 inter-American cups, 2 intercontinental cups, 2 super cups, 1 South American cup and 2 South American cups.One of the best Teams for live The Experience.How to buy Independiente tickets: Choose your match, choose your host and buy your Independiente experience with Football Host! STADIUM: Libertadores de América stadium, also known as La Doble Visea, has a capacity of 52,823. It was the first cement stadium in america. In the year 2005 they changed their name to \"Libertadores de America\" because it is the team with most titles in this competition.Get your Libertadores de America tickets and live the best football in Avellaneda.",
+              "products_count": 5,
+              "handle": "independiente-tickets-experiences",
+              "title": "Independiente Tickets & Experiences",
+              "fs_collection_type": "custom_collection",
+              "shop_id": "62d14708cde2092c0801f832",
+              "admin_graphql_api_id": "gid:\/\/shopify\/Collection\/406359113961",
+              "descriptionHtml": "<h2 style=\"text-align: left;\">TEAM:<\/h2>\n<div style=\"text-align: left;\">The Club Atlético Independiente, popularly known as<strong data-mce-fragment=\"1\"> Independiente <\/strong>or Independiente de Avellaneda, was founded on January 1, 1905 in the city of Avellaneda, Buenos Aires. It is one of the most important teams in<strong data-mce-fragment=\"1\"> <\/strong>America thanks to its history. He is the <strong data-mce-fragment=\"1\">maximum winner of the \"Copa Libertadores de America\" ​​with 7 won championships<\/strong>. I also won: 3 inter-American cups, 2 intercontinental cups, 2 super cups, 1 South American cup and 2 South American cups.<br data-mce-fragment=\"1\">One of the best Teams for live The Experience.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">How to buy Independiente tickets<\/strong>: Choose your match, choose your host and buy your <strong data-mce-fragment=\"1\">Independiente experience<\/strong> with Football Host!<\/div>\n<div style=\"text-align: left;\"><\/div>\n<h2 style=\"text-align: left;\">STADIUM:<\/h2>\n<div style=\"text-align: left;\">\n<strong>Libertadores de América stadium<\/strong>, also known as <em>La Doble Visea<\/em><strong>,<\/strong> has a capacity of 52,823. It was the first cement stadium in america. In the year 2005 they changed their name to \"Libertadores de America\" because it is the team with most titles in this competition.<br><br>Get your <strong>Libertadores de America tickets<\/strong> and live the best football in Avellaneda.<\/div>",
+              "id": "406359113961",
+              "productsCount": 5,
+              "total_products": 5,
+              "updatedAt": "2022-06-16T07:30:36Z",
+              "status": "active"
+            },
+            {
+              "ruleSet": {
+                "appliedDisjunctively": true
+              },
+              "ets_fs_type": "collection",
+              "description": "",
+              "products_count": 78,
+              "handle": "ets-fs-best-selling-products",
+              "title": "Best selling products (DO NOT DELETE)",
+              "fs_collection_type": "smart_collection",
+              "shop_id": "62d14708cde2092c0801f832",
+              "admin_graphql_api_id": "gid:\/\/shopify\/Collection\/407725605097",
+              "descriptionHtml": "",
+              "id": "407725605097",
+              "productsCount": 78,
+              "total_products": 78,
+              "updatedAt": "2022-07-15T12:10:48Z",
+              "status": "active"
+            }
+          ]
+        },
+        {
+          "id": 7753132605673,
+          "title": "Independiente vs Estudiantes Tickets",
+          "body_html": "<p><strong>-Official tickets<\/strong><br><strong> -Tickets together guaranteed<\/strong><br> -Location: Libertadores de América Stadium (Avellaneda)<br> -Date: June 21<br> -Competition: Primera División Argentina<br> -Delivery: Depending on the match your tickets will be delivered by email or in person by a local guide.<br> <br> For more information contact us: sales@24x7tickets.com \/\/ (+34) 685 23 01 20<\/p>",
+          "vendor": "Football Host",
+          "product_type": "Tickets",
+          "created_at": "2022-06-15T11:10:33+02:00",
+          "handle": "independiente-estudiantes-primera-division-argentina-tickets",
+          "updated_at": "2022-06-16T12:26:51+02:00",
+          "published_at": "2022-06-15T11:10:31+02:00",
+          "template_suffix": "",
+          "status": "active",
+          "published_scope": "web",
+          "tags": "Tickets",
+          "admin_graphql_api_id": "gid:\/\/shopify\/Product\/7753132605673",
+          "variants": [
+            {
+              "id": 43233494565097,
+              "product_id": 7753132605673,
+              "title": "Shortside Standard",
+              "price": 120,
+              "sku": "20220621IND04",
+              "position": 1,
+              "inventory_policy": "deny",
+              "compare_at_price": 0,
+              "fulfillment_service": "manual",
+              "inventory_management": "shopify",
+              "option1": "Shortside Standard",
+              "option2": null,
+              "option3": null,
+              "created_at": "2022-06-15T11:10:33+02:00",
+              "updated_at": "2022-06-16T12:26:51+02:00",
+              "taxable": true,
+              "barcode": null,
+              "grams": 0,
+              "image_id": 37847913431273,
+              "weight": 0,
+              "weight_unit": "kg",
+              "inventory_item_id": 45328911270121,
+              "inventory_quantity": 0,
+              "old_inventory_quantity": 0,
+              "requires_shipping": true,
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/43233494565097",
+              "percent_sale": 0
+            },
+            {
+              "id": 43233494597865,
+              "product_id": 7753132605673,
+              "title": "Longside Standard",
+              "price": 176,
+              "sku": "20220621IND02",
+              "position": 2,
+              "inventory_policy": "deny",
+              "compare_at_price": 0,
+              "fulfillment_service": "manual",
+              "inventory_management": "shopify",
+              "option1": "Longside Standard",
+              "option2": null,
+              "option3": null,
+              "created_at": "2022-06-15T11:10:33+02:00",
+              "updated_at": "2022-06-16T12:26:51+02:00",
+              "taxable": true,
+              "barcode": null,
+              "grams": 0,
+              "image_id": 37847913300201,
+              "weight": 0,
+              "weight_unit": "kg",
+              "inventory_item_id": 45328911302889,
+              "inventory_quantity": 10,
+              "old_inventory_quantity": 10,
+              "requires_shipping": true,
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/43233494597865",
+              "percent_sale": 0
+            }
+          ],
+          "options": [
+            {
+              "id": 9849115705577,
+              "product_id": 7753132605673,
+              "name": "Category",
+              "position": 1,
+              "values": [
+                "Shortside Standard",
+                "Longside Standard"
+              ],
+              "label": "Category",
+              "key": "category",
+              "value": "Category"
+            }
+          ],
+          "images": [
+            {
+              "id": 37847913431273,
+              "product_id": 7753132605673,
+              "position": 1,
+              "created_at": "2022-06-16T12:26:41+02:00",
+              "updated_at": "2022-06-16T12:26:43+02:00",
+              "alt": null,
+              "width": 644,
+              "height": 600,
+              "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/shortside_standard_c067f41e-e0fe-4638-9374-eef0893c0cad.jpg?v=1655375203",
+              "variant_ids": [
+                43233494565097
+              ],
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847913431273"
+            },
+            {
+              "id": 37847913300201,
+              "product_id": 7753132605673,
+              "position": 2,
+              "created_at": "2022-06-16T12:26:39+02:00",
+              "updated_at": "2022-06-16T12:26:43+02:00",
+              "alt": null,
+              "width": 644,
+              "height": 600,
+              "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/longisde_standard_9495adb8-2004-412d-ae08-83bd8fa68f7e.jpg?v=1655375203",
+              "variant_ids": [
+                43233494597865
+              ],
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847913300201"
+            }
+          ],
+          "image": {
+            "id": 37847913431273,
+            "product_id": 7753132605673,
+            "position": 1,
+            "created_at": "2022-06-16T12:26:41+02:00",
+            "updated_at": "2022-06-16T12:26:43+02:00",
+            "alt": null,
+            "width": 644,
+            "height": 600,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/shortside_standard_c067f41e-e0fe-4638-9374-eef0893c0cad.jpg?v=1655375203",
+            "variant_ids": [
+              43233494565097
+            ],
+            "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847913431273"
+          },
+          "shop_id": "62d14708cde2092c0801f832",
+          "ets_fs_type": "product",
+          "order_best_selling": 9999999999,
+          "collections": [
+            {
+              "ruleSet": null,
+              "ets_fs_type": "collection",
+              "description": "TEAM: The Club Atlético Independiente, popularly known as Independiente or Independiente de Avellaneda, was founded on January 1, 1905 in the city of Avellaneda, Buenos Aires. It is one of the most important teams in America thanks to its history. He is the maximum winner of the \"Copa Libertadores de America\" ​​with 7 won championships. I also won: 3 inter-American cups, 2 intercontinental cups, 2 super cups, 1 South American cup and 2 South American cups.One of the best Teams for live The Experience.How to buy Independiente tickets: Choose your match, choose your host and buy your Independiente experience with Football Host! STADIUM: Libertadores de América stadium, also known as La Doble Visea, has a capacity of 52,823. It was the first cement stadium in america. In the year 2005 they changed their name to \"Libertadores de America\" because it is the team with most titles in this competition.Get your Libertadores de America tickets and live the best football in Avellaneda.",
+              "products_count": 5,
+              "handle": "independiente-tickets-experiences",
+              "title": "Independiente Tickets & Experiences",
+              "fs_collection_type": "custom_collection",
+              "shop_id": "62d14708cde2092c0801f832",
+              "admin_graphql_api_id": "gid:\/\/shopify\/Collection\/406359113961",
+              "descriptionHtml": "<h2 style=\"text-align: left;\">TEAM:<\/h2>\n<div style=\"text-align: left;\">The Club Atlético Independiente, popularly known as<strong data-mce-fragment=\"1\"> Independiente <\/strong>or Independiente de Avellaneda, was founded on January 1, 1905 in the city of Avellaneda, Buenos Aires. It is one of the most important teams in<strong data-mce-fragment=\"1\"> <\/strong>America thanks to its history. He is the <strong data-mce-fragment=\"1\">maximum winner of the \"Copa Libertadores de America\" ​​with 7 won championships<\/strong>. I also won: 3 inter-American cups, 2 intercontinental cups, 2 super cups, 1 South American cup and 2 South American cups.<br data-mce-fragment=\"1\">One of the best Teams for live The Experience.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">How to buy Independiente tickets<\/strong>: Choose your match, choose your host and buy your <strong data-mce-fragment=\"1\">Independiente experience<\/strong> with Football Host!<\/div>\n<div style=\"text-align: left;\"><\/div>\n<h2 style=\"text-align: left;\">STADIUM:<\/h2>\n<div style=\"text-align: left;\">\n<strong>Libertadores de América stadium<\/strong>, also known as <em>La Doble Visea<\/em><strong>,<\/strong> has a capacity of 52,823. It was the first cement stadium in america. In the year 2005 they changed their name to \"Libertadores de America\" because it is the team with most titles in this competition.<br><br>Get your <strong>Libertadores de America tickets<\/strong> and live the best football in Avellaneda.<\/div>",
+              "id": "406359113961",
+              "productsCount": 5,
+              "total_products": 5,
+              "updatedAt": "2022-06-16T07:30:36Z",
+              "status": "active"
+            },
+            {
+              "ruleSet": {
+                "appliedDisjunctively": true
+              },
+              "ets_fs_type": "collection",
+              "description": "",
+              "products_count": 78,
+              "handle": "ets-fs-best-selling-products",
+              "title": "Best selling products (DO NOT DELETE)",
+              "fs_collection_type": "smart_collection",
+              "shop_id": "62d14708cde2092c0801f832",
+              "admin_graphql_api_id": "gid:\/\/shopify\/Collection\/407725605097",
+              "descriptionHtml": "",
+              "id": "407725605097",
+              "productsCount": 78,
+              "total_products": 78,
+              "updatedAt": "2022-07-15T12:10:48Z",
+              "status": "active"
+            }
+          ]
+        },
+        {
+          "id": 7753132671209,
+          "title": "Independiente vs Platense Tickets",
+          "body_html": "<p><strong>-Official tickets<\/strong><br><strong> -Tickets together guaranteed<\/strong><br> -Location: Libertadores de América Stadium (Avellaneda)<br> -Date: July 3<br> -Competition: Primera División Argentina<br> -Delivery: Depending on the match your tickets will be delivered by email or in person by a local guide.<br> <br> For more information contact us: sales@24x7tickets.com \/\/ (+34) 685 23 01 20<\/p>",
+          "vendor": "Football Host",
+          "product_type": "Tickets",
+          "created_at": "2022-06-15T11:10:35+02:00",
+          "handle": "independiente-platense-primera-division-argentina-tickets",
+          "updated_at": "2022-06-16T12:27:23+02:00",
+          "published_at": "2022-06-15T11:10:34+02:00",
+          "template_suffix": "",
+          "status": "active",
+          "published_scope": "web",
+          "tags": "Tickets",
+          "admin_graphql_api_id": "gid:\/\/shopify\/Product\/7753132671209",
+          "variants": [
+            {
+              "id": 43233494663401,
+              "product_id": 7753132671209,
+              "title": "Shortside Standard",
+              "price": 120,
+              "sku": "20220703IND04",
+              "position": 1,
+              "inventory_policy": "deny",
+              "compare_at_price": 0,
+              "fulfillment_service": "manual",
+              "inventory_management": "shopify",
+              "option1": "Shortside Standard",
+              "option2": null,
+              "option3": null,
+              "created_at": "2022-06-15T11:10:35+02:00",
+              "updated_at": "2022-06-16T12:27:23+02:00",
+              "taxable": true,
+              "barcode": null,
+              "grams": 0,
+              "image_id": 37847914774761,
+              "weight": 0,
+              "weight_unit": "kg",
+              "inventory_item_id": 45328911368425,
+              "inventory_quantity": 0,
+              "old_inventory_quantity": 0,
+              "requires_shipping": true,
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/43233494663401",
+              "percent_sale": 0
+            },
+            {
+              "id": 43233494696169,
+              "product_id": 7753132671209,
+              "title": "Longside Standard",
+              "price": 176,
+              "sku": "20220703IND02",
+              "position": 2,
+              "inventory_policy": "deny",
+              "compare_at_price": 0,
+              "fulfillment_service": "manual",
+              "inventory_management": "shopify",
+              "option1": "Longside Standard",
+              "option2": null,
+              "option3": null,
+              "created_at": "2022-06-15T11:10:35+02:00",
+              "updated_at": "2022-06-16T12:27:23+02:00",
+              "taxable": true,
+              "barcode": null,
+              "grams": 0,
+              "image_id": 37847914512617,
+              "weight": 0,
+              "weight_unit": "kg",
+              "inventory_item_id": 45328911401193,
+              "inventory_quantity": 10,
+              "old_inventory_quantity": 10,
+              "requires_shipping": true,
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/43233494696169",
+              "percent_sale": 0
+            }
+          ],
+          "options": [
+            {
+              "id": 9849115771113,
+              "product_id": 7753132671209,
+              "name": "Category",
+              "position": 1,
+              "values": [
+                "Shortside Standard",
+                "Longside Standard"
+              ],
+              "label": "Category",
+              "key": "category",
+              "value": "Category"
+            }
+          ],
+          "images": [
+            {
+              "id": 37847914774761,
+              "product_id": 7753132671209,
+              "position": 1,
+              "created_at": "2022-06-16T12:27:16+02:00",
+              "updated_at": "2022-06-16T12:27:16+02:00",
+              "alt": null,
+              "width": 644,
+              "height": 600,
+              "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/shortside_standard_8a51ac53-5f7d-40c3-9554-8fb9b27d77a0.jpg?v=1655375236",
+              "variant_ids": [
+                43233494663401
+              ],
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847914774761"
+            },
+            {
+              "id": 37847914512617,
+              "product_id": 7753132671209,
+              "position": 2,
+              "created_at": "2022-06-16T12:27:12+02:00",
+              "updated_at": "2022-06-16T12:27:16+02:00",
+              "alt": null,
+              "width": 644,
+              "height": 600,
+              "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/longisde_standard_e5f7fab6-f9f8-481b-b68e-883727819b29.jpg?v=1655375236",
+              "variant_ids": [
+                43233494696169
+              ],
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847914512617"
+            }
+          ],
+          "image": {
+            "id": 37847914774761,
+            "product_id": 7753132671209,
+            "position": 1,
+            "created_at": "2022-06-16T12:27:16+02:00",
+            "updated_at": "2022-06-16T12:27:16+02:00",
+            "alt": null,
+            "width": 644,
+            "height": 600,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/shortside_standard_8a51ac53-5f7d-40c3-9554-8fb9b27d77a0.jpg?v=1655375236",
+            "variant_ids": [
+              43233494663401
+            ],
+            "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847914774761"
+          },
+          "shop_id": "62d14708cde2092c0801f832",
+          "ets_fs_type": "product",
+          "order_best_selling": 9999999999,
+          "collections": [
+            {
+              "ruleSet": null,
+              "ets_fs_type": "collection",
+              "description": "TEAM: The Club Atlético Independiente, popularly known as Independiente or Independiente de Avellaneda, was founded on January 1, 1905 in the city of Avellaneda, Buenos Aires. It is one of the most important teams in America thanks to its history. He is the maximum winner of the \"Copa Libertadores de America\" ​​with 7 won championships. I also won: 3 inter-American cups, 2 intercontinental cups, 2 super cups, 1 South American cup and 2 South American cups.One of the best Teams for live The Experience.How to buy Independiente tickets: Choose your match, choose your host and buy your Independiente experience with Football Host! STADIUM: Libertadores de América stadium, also known as La Doble Visea, has a capacity of 52,823. It was the first cement stadium in america. In the year 2005 they changed their name to \"Libertadores de America\" because it is the team with most titles in this competition.Get your Libertadores de America tickets and live the best football in Avellaneda.",
+              "products_count": 5,
+              "handle": "independiente-tickets-experiences",
+              "title": "Independiente Tickets & Experiences",
+              "fs_collection_type": "custom_collection",
+              "shop_id": "62d14708cde2092c0801f832",
+              "admin_graphql_api_id": "gid:\/\/shopify\/Collection\/406359113961",
+              "descriptionHtml": "<h2 style=\"text-align: left;\">TEAM:<\/h2>\n<div style=\"text-align: left;\">The Club Atlético Independiente, popularly known as<strong data-mce-fragment=\"1\"> Independiente <\/strong>or Independiente de Avellaneda, was founded on January 1, 1905 in the city of Avellaneda, Buenos Aires. It is one of the most important teams in<strong data-mce-fragment=\"1\"> <\/strong>America thanks to its history. He is the <strong data-mce-fragment=\"1\">maximum winner of the \"Copa Libertadores de America\" ​​with 7 won championships<\/strong>. I also won: 3 inter-American cups, 2 intercontinental cups, 2 super cups, 1 South American cup and 2 South American cups.<br data-mce-fragment=\"1\">One of the best Teams for live The Experience.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">How to buy Independiente tickets<\/strong>: Choose your match, choose your host and buy your <strong data-mce-fragment=\"1\">Independiente experience<\/strong> with Football Host!<\/div>\n<div style=\"text-align: left;\"><\/div>\n<h2 style=\"text-align: left;\">STADIUM:<\/h2>\n<div style=\"text-align: left;\">\n<strong>Libertadores de América stadium<\/strong>, also known as <em>La Doble Visea<\/em><strong>,<\/strong> has a capacity of 52,823. It was the first cement stadium in america. In the year 2005 they changed their name to \"Libertadores de America\" because it is the team with most titles in this competition.<br><br>Get your <strong>Libertadores de America tickets<\/strong> and live the best football in Avellaneda.<\/div>",
+              "id": "406359113961",
+              "productsCount": 5,
+              "total_products": 5,
+              "updatedAt": "2022-06-16T07:30:36Z",
+              "status": "active"
+            },
+            {
+              "ruleSet": {
+                "appliedDisjunctively": true
+              },
+              "ets_fs_type": "collection",
+              "description": "",
+              "products_count": 78,
+              "handle": "ets-fs-best-selling-products",
+              "title": "Best selling products (DO NOT DELETE)",
+              "fs_collection_type": "smart_collection",
+              "shop_id": "62d14708cde2092c0801f832",
+              "admin_graphql_api_id": "gid:\/\/shopify\/Collection\/407725605097",
+              "descriptionHtml": "",
+              "id": "407725605097",
+              "productsCount": 78,
+              "total_products": 78,
+              "updatedAt": "2022-07-15T12:10:48Z",
+              "status": "active"
+            }
+          ]
+        },
+        {
+          "id": 7753132933353,
+          "title": "Independiente vs River Plate Tickets",
+          "body_html": "<p><strong>-Official tickets<\/strong><br><strong> -Tickets together guaranteed<\/strong><br> -Location: Libertadores de América Stadium (Avellaneda)<br> -Date:August 7<br> -Competition: Primera División Argentina<br> -Delivery: Depending on the match your tickets will be delivered by email or in person by a local guide.<br> <br> For more information contact us: sales@24x7tickets.com \/\/ (+34) 685 23 01 20<\/p>",
+          "vendor": "Football Host",
+          "product_type": "Tickets",
+          "created_at": "2022-06-15T11:10:41+02:00",
+          "handle": "independiente-river-plate-primera-division-argentina-tickets",
+          "updated_at": "2022-06-16T12:27:47+02:00",
+          "published_at": "2022-06-15T11:10:39+02:00",
+          "template_suffix": "",
+          "status": "active",
+          "published_scope": "web",
+          "tags": "Tickets",
+          "admin_graphql_api_id": "gid:\/\/shopify\/Product\/7753132933353",
+          "variants": [
+            {
+              "id": 43233495056617,
+              "product_id": 7753132933353,
+              "title": "Shortside Standard",
+              "price": 180,
+              "sku": "20220807IND04",
+              "position": 1,
+              "inventory_policy": "deny",
+              "compare_at_price": 0,
+              "fulfillment_service": "manual",
+              "inventory_management": "shopify",
+              "option1": "Shortside Standard",
+              "option2": null,
+              "option3": null,
+              "created_at": "2022-06-15T11:10:41+02:00",
+              "updated_at": "2022-06-16T12:27:47+02:00",
+              "taxable": true,
+              "barcode": null,
+              "grams": 0,
+              "image_id": 37847915823337,
+              "weight": 0,
+              "weight_unit": "kg",
+              "inventory_item_id": 45328911761641,
+              "inventory_quantity": 0,
+              "old_inventory_quantity": 0,
+              "requires_shipping": true,
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/43233495056617",
+              "percent_sale": 0
+            },
+            {
+              "id": 43233495089385,
+              "product_id": 7753132933353,
+              "title": "Longside Standard",
+              "price": 240,
+              "sku": "20220807IND02",
+              "position": 2,
+              "inventory_policy": "deny",
+              "compare_at_price": 0,
+              "fulfillment_service": "manual",
+              "inventory_management": "shopify",
+              "option1": "Longside Standard",
+              "option2": null,
+              "option3": null,
+              "created_at": "2022-06-15T11:10:41+02:00",
+              "updated_at": "2022-06-16T12:27:47+02:00",
+              "taxable": true,
+              "barcode": null,
+              "grams": 0,
+              "image_id": 37847915921641,
+              "weight": 0,
+              "weight_unit": "kg",
+              "inventory_item_id": 45328911794409,
+              "inventory_quantity": 10,
+              "old_inventory_quantity": 10,
+              "requires_shipping": true,
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/43233495089385",
+              "percent_sale": 0
+            }
+          ],
+          "options": [
+            {
+              "id": 9849116033257,
+              "product_id": 7753132933353,
+              "name": "Category",
+              "position": 1,
+              "values": [
+                "Shortside Standard",
+                "Longside Standard"
+              ],
+              "label": "Category",
+              "key": "category",
+              "value": "Category"
+            }
+          ],
+          "images": [
+            {
+              "id": 37847915823337,
+              "product_id": 7753132933353,
+              "position": 1,
+              "created_at": "2022-06-16T12:27:37+02:00",
+              "updated_at": "2022-06-16T12:27:37+02:00",
+              "alt": null,
+              "width": 644,
+              "height": 600,
+              "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/shortside_standard_6afcace7-5b68-4881-968d-2113350b7f97.jpg?v=1655375257",
+              "variant_ids": [
+                43233495056617
+              ],
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847915823337"
+            },
+            {
+              "id": 37847915921641,
+              "product_id": 7753132933353,
+              "position": 2,
+              "created_at": "2022-06-16T12:27:40+02:00",
+              "updated_at": "2022-06-16T12:27:40+02:00",
+              "alt": null,
+              "width": 644,
+              "height": 600,
+              "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/longisde_standard_d7a961fa-cccb-45f3-90c9-df09a7a2f6a9.jpg?v=1655375260",
+              "variant_ids": [
+                43233495089385
+              ],
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847915921641"
+            }
+          ],
+          "image": {
+            "id": 37847915823337,
+            "product_id": 7753132933353,
+            "position": 1,
+            "created_at": "2022-06-16T12:27:37+02:00",
+            "updated_at": "2022-06-16T12:27:37+02:00",
+            "alt": null,
+            "width": 644,
+            "height": 600,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/shortside_standard_6afcace7-5b68-4881-968d-2113350b7f97.jpg?v=1655375257",
+            "variant_ids": [
+              43233495056617
+            ],
+            "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847915823337"
+          },
+          "shop_id": "62d14708cde2092c0801f832",
+          "ets_fs_type": "product",
+          "order_best_selling": 9999999999,
+          "collections": [
+            {
+              "ruleSet": null,
+              "ets_fs_type": "collection",
+              "description": "TEAM: The Club Atlético Independiente, popularly known as Independiente or Independiente de Avellaneda, was founded on January 1, 1905 in the city of Avellaneda, Buenos Aires. It is one of the most important teams in America thanks to its history. He is the maximum winner of the \"Copa Libertadores de America\" ​​with 7 won championships. I also won: 3 inter-American cups, 2 intercontinental cups, 2 super cups, 1 South American cup and 2 South American cups.One of the best Teams for live The Experience.How to buy Independiente tickets: Choose your match, choose your host and buy your Independiente experience with Football Host! STADIUM: Libertadores de América stadium, also known as La Doble Visea, has a capacity of 52,823. It was the first cement stadium in america. In the year 2005 they changed their name to \"Libertadores de America\" because it is the team with most titles in this competition.Get your Libertadores de America tickets and live the best football in Avellaneda.",
+              "products_count": 5,
+              "handle": "independiente-tickets-experiences",
+              "title": "Independiente Tickets & Experiences",
+              "fs_collection_type": "custom_collection",
+              "shop_id": "62d14708cde2092c0801f832",
+              "admin_graphql_api_id": "gid:\/\/shopify\/Collection\/406359113961",
+              "descriptionHtml": "<h2 style=\"text-align: left;\">TEAM:<\/h2>\n<div style=\"text-align: left;\">The Club Atlético Independiente, popularly known as<strong data-mce-fragment=\"1\"> Independiente <\/strong>or Independiente de Avellaneda, was founded on January 1, 1905 in the city of Avellaneda, Buenos Aires. It is one of the most important teams in<strong data-mce-fragment=\"1\"> <\/strong>America thanks to its history. He is the <strong data-mce-fragment=\"1\">maximum winner of the \"Copa Libertadores de America\" ​​with 7 won championships<\/strong>. I also won: 3 inter-American cups, 2 intercontinental cups, 2 super cups, 1 South American cup and 2 South American cups.<br data-mce-fragment=\"1\">One of the best Teams for live The Experience.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">How to buy Independiente tickets<\/strong>: Choose your match, choose your host and buy your <strong data-mce-fragment=\"1\">Independiente experience<\/strong> with Football Host!<\/div>\n<div style=\"text-align: left;\"><\/div>\n<h2 style=\"text-align: left;\">STADIUM:<\/h2>\n<div style=\"text-align: left;\">\n<strong>Libertadores de América stadium<\/strong>, also known as <em>La Doble Visea<\/em><strong>,<\/strong> has a capacity of 52,823. It was the first cement stadium in america. In the year 2005 they changed their name to \"Libertadores de America\" because it is the team with most titles in this competition.<br><br>Get your <strong>Libertadores de America tickets<\/strong> and live the best football in Avellaneda.<\/div>",
+              "id": "406359113961",
+              "productsCount": 5,
+              "total_products": 5,
+              "updatedAt": "2022-06-16T07:30:36Z",
+              "status": "active"
+            },
+            {
+              "ruleSet": {
+                "appliedDisjunctively": true
+              },
+              "ets_fs_type": "collection",
+              "description": "",
+              "products_count": 78,
+              "handle": "ets-fs-best-selling-products",
+              "title": "Best selling products (DO NOT DELETE)",
+              "fs_collection_type": "smart_collection",
+              "shop_id": "62d14708cde2092c0801f832",
+              "admin_graphql_api_id": "gid:\/\/shopify\/Collection\/407725605097",
+              "descriptionHtml": "",
+              "id": "407725605097",
+              "productsCount": 78,
+              "total_products": 78,
+              "updatedAt": "2022-07-15T12:10:48Z",
+              "status": "active"
+            }
+          ]
+        },
+        {
+          "id": 7753132802281,
+          "title": "Independiente vs Rosario Central Tickets",
+          "body_html": "<p><strong>-Official tickets<\/strong><br><strong> -Tickets together guaranteed<\/strong><br> -Location: Libertadores de América Stadium (Buenos Aires)<br> -Date: July 17<br> -Competition: Primera División Argentina<br> -Delivery: Depending on the match your tickets will be delivered by email or in person by a local guide.<br> <br> For more information contact us: sales@24x7tickets.com \/\/ (+34) 685 23 01 20<\/p>",
+          "vendor": "Football Host",
+          "product_type": "Tickets",
+          "created_at": "2022-06-15T11:10:37+02:00",
+          "handle": "independiente-rosario-central-primera-division-argentina-tickets",
+          "updated_at": "2022-06-16T12:28:24+02:00",
+          "published_at": "2022-06-15T11:10:35+02:00",
+          "template_suffix": "",
+          "status": "active",
+          "published_scope": "web",
+          "tags": "Tickets",
+          "admin_graphql_api_id": "gid:\/\/shopify\/Product\/7753132802281",
+          "variants": [
+            {
+              "id": 43233494827241,
+              "product_id": 7753132802281,
+              "title": "Shortside Standard",
+              "price": 120,
+              "sku": "20220717IND04",
+              "position": 1,
+              "inventory_policy": "deny",
+              "compare_at_price": 0,
+              "fulfillment_service": "manual",
+              "inventory_management": "shopify",
+              "option1": "Shortside Standard",
+              "option2": null,
+              "option3": null,
+              "created_at": "2022-06-15T11:10:37+02:00",
+              "updated_at": "2022-06-16T12:28:24+02:00",
+              "taxable": true,
+              "barcode": null,
+              "grams": 0,
+              "image_id": 37847916708073,
+              "weight": 0,
+              "weight_unit": "kg",
+              "inventory_item_id": 45328911532265,
+              "inventory_quantity": 0,
+              "old_inventory_quantity": 0,
+              "requires_shipping": true,
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/43233494827241",
+              "percent_sale": 0
+            },
+            {
+              "id": 43233494860009,
+              "product_id": 7753132802281,
+              "title": "Longside Standard",
+              "price": 176,
+              "sku": "20220717IND02",
+              "position": 2,
+              "inventory_policy": "deny",
+              "compare_at_price": 0,
+              "fulfillment_service": "manual",
+              "inventory_management": "shopify",
+              "option1": "Longside Standard",
+              "option2": null,
+              "option3": null,
+              "created_at": "2022-06-15T11:10:37+02:00",
+              "updated_at": "2022-06-16T12:28:24+02:00",
+              "taxable": true,
+              "barcode": null,
+              "grams": 0,
+              "image_id": 37847917002985,
+              "weight": 0,
+              "weight_unit": "kg",
+              "inventory_item_id": 45328911565033,
+              "inventory_quantity": 10,
+              "old_inventory_quantity": 10,
+              "requires_shipping": true,
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductVariant\/43233494860009",
+              "percent_sale": 0
+            }
+          ],
+          "options": [
+            {
+              "id": 9849115902185,
+              "product_id": 7753132802281,
+              "name": "Category",
+              "position": 1,
+              "values": [
+                "Shortside Standard",
+                "Longside Standard"
+              ],
+              "label": "Category",
+              "key": "category",
+              "value": "Category"
+            }
+          ],
+          "images": [
+            {
+              "id": 37847916708073,
+              "product_id": 7753132802281,
+              "position": 1,
+              "created_at": "2022-06-16T12:28:00+02:00",
+              "updated_at": "2022-06-16T12:28:00+02:00",
+              "alt": null,
+              "width": 644,
+              "height": 600,
+              "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/shortside_standard_8b8336b0-63e6-4df6-8fb9-64006112d016.jpg?v=1655375280",
+              "variant_ids": [
+                43233494827241
+              ],
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847916708073"
+            },
+            {
+              "id": 37847917002985,
+              "product_id": 7753132802281,
+              "position": 2,
+              "created_at": "2022-06-16T12:28:05+02:00",
+              "updated_at": "2022-06-16T12:28:05+02:00",
+              "alt": null,
+              "width": 644,
+              "height": 600,
+              "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/longisde_standard_eae0e783-238b-40bc-b1cb-db471ed68da3.jpg?v=1655375285",
+              "variant_ids": [
+                43233494860009
+              ],
+              "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847917002985"
+            }
+          ],
+          "image": {
+            "id": 37847916708073,
+            "product_id": 7753132802281,
+            "position": 1,
+            "created_at": "2022-06-16T12:28:00+02:00",
+            "updated_at": "2022-06-16T12:28:00+02:00",
+            "alt": null,
+            "width": 644,
+            "height": 600,
+            "src": "https:\/\/cdn.shopify.com\/s\/files\/1\/0601\/3855\/3577\/products\/shortside_standard_8b8336b0-63e6-4df6-8fb9-64006112d016.jpg?v=1655375280",
+            "variant_ids": [
+              43233494827241
+            ],
+            "admin_graphql_api_id": "gid:\/\/shopify\/ProductImage\/37847916708073"
+          },
+          "shop_id": "62d14708cde2092c0801f832",
+          "ets_fs_type": "product",
+          "order_best_selling": 9999999999,
+          "collections": [
+            {
+              "ruleSet": null,
+              "ets_fs_type": "collection",
+              "description": "TEAM: The Club Atlético Independiente, popularly known as Independiente or Independiente de Avellaneda, was founded on January 1, 1905 in the city of Avellaneda, Buenos Aires. It is one of the most important teams in America thanks to its history. He is the maximum winner of the \"Copa Libertadores de America\" ​​with 7 won championships. I also won: 3 inter-American cups, 2 intercontinental cups, 2 super cups, 1 South American cup and 2 South American cups.One of the best Teams for live The Experience.How to buy Independiente tickets: Choose your match, choose your host and buy your Independiente experience with Football Host! STADIUM: Libertadores de América stadium, also known as La Doble Visea, has a capacity of 52,823. It was the first cement stadium in america. In the year 2005 they changed their name to \"Libertadores de America\" because it is the team with most titles in this competition.Get your Libertadores de America tickets and live the best football in Avellaneda.",
+              "products_count": 5,
+              "handle": "independiente-tickets-experiences",
+              "title": "Independiente Tickets & Experiences",
+              "fs_collection_type": "custom_collection",
+              "shop_id": "62d14708cde2092c0801f832",
+              "admin_graphql_api_id": "gid:\/\/shopify\/Collection\/406359113961",
+              "descriptionHtml": "<h2 style=\"text-align: left;\">TEAM:<\/h2>\n<div style=\"text-align: left;\">The Club Atlético Independiente, popularly known as<strong data-mce-fragment=\"1\"> Independiente <\/strong>or Independiente de Avellaneda, was founded on January 1, 1905 in the city of Avellaneda, Buenos Aires. It is one of the most important teams in<strong data-mce-fragment=\"1\"> <\/strong>America thanks to its history. He is the <strong data-mce-fragment=\"1\">maximum winner of the \"Copa Libertadores de America\" ​​with 7 won championships<\/strong>. I also won: 3 inter-American cups, 2 intercontinental cups, 2 super cups, 1 South American cup and 2 South American cups.<br data-mce-fragment=\"1\">One of the best Teams for live The Experience.<br data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">How to buy Independiente tickets<\/strong>: Choose your match, choose your host and buy your <strong data-mce-fragment=\"1\">Independiente experience<\/strong> with Football Host!<\/div>\n<div style=\"text-align: left;\"><\/div>\n<h2 style=\"text-align: left;\">STADIUM:<\/h2>\n<div style=\"text-align: left;\">\n<strong>Libertadores de América stadium<\/strong>, also known as <em>La Doble Visea<\/em><strong>,<\/strong> has a capacity of 52,823. It was the first cement stadium in america. In the year 2005 they changed their name to \"Libertadores de America\" because it is the team with most titles in this competition.<br><br>Get your <strong>Libertadores de America tickets<\/strong> and live the best football in Avellaneda.<\/div>",
+              "id": "406359113961",
+              "productsCount": 5,
+              "total_products": 5,
+              "updatedAt": "2022-06-16T07:30:36Z",
+              "status": "active"
+            },
+            {
+              "ruleSet": {
+                "appliedDisjunctively": true
+              },
+              "ets_fs_type": "collection",
+              "description": "",
+              "products_count": 78,
+              "handle": "ets-fs-best-selling-products",
+              "title": "Best selling products (DO NOT DELETE)",
+              "fs_collection_type": "smart_collection",
+              "shop_id": "62d14708cde2092c0801f832",
+              "admin_graphql_api_id": "gid:\/\/shopify\/Collection\/407725605097",
+              "descriptionHtml": "",
+              "id": "407725605097",
+              "productsCount": 78,
+              "total_products": 78,
+              "updatedAt": "2022-07-15T12:10:48Z",
+              "status": "active"
+            }
+          ]
+        }
+      ]
+    },
+    "filters": [
+      {
+        "user_id": "62d14708cde2092c0801f832",
+        "filter_information": {
+          "active": 1,
+          "show_out_of_stock": 0,
+          "filter_name": "Tickets\/Experiences",
+          "collection_applied": [
+            "404858110185"
+          ]
+        },
+        "list_filter_options": [
+          {
+            "filter_type": "type",
+            "filter_enable": true,
+            "filter_label": "Type",
+            "filter_description": "test",
+            "filter_display_type": "checkbox",
+            "filter_sort_by": "most_product",
+            "filter_uppercase_values": 0,
+            "filter_ranger_price": {
+              "ranger": 1,
+              "step": 1,
+              "delimiter": ",",
+              "show_ranger": true,
+              "from": "",
+              "to": 995
+            },
+            "filter_ranger_weight": {
+              "ranger": 1,
+              "step": 1,
+              "delimiter": ",",
+              "show_ranger": true,
+              "from": "",
+              "to": ""
+            },
+            "filter_percent_sale": [
+              {
+                "from": 10,
+                "to": ""
+              }
+            ],
+            "filter_stock_status": {
+              "instock": "In-stock",
+              "outStock": "Out of stock"
+            },
+            "filter_color_start": "#FFD117",
+            "filter_option_value": [
+
+            ],
+            "filter_option_value_type": "text",
+            "filter_swatch_style": "square",
+            "filter_vendors_applied": [
+
+            ],
+            "filter_types_applied": [
+              "experiences",
+              "tickets"
+            ],
+            "filter_tags_applied": [
+
+            ],
+            "filter_type_default": 1,
+            "filter_collection_applied": [
+
+            ],
+            "filter_collection_behavior": "default",
+            "filter_position": 0,
+            "id_option_filter": 1,
+            "filter_list": [
+              {
+                "label": "Tickets",
+                "value": "Tickets",
+                "key": "tickets",
+                "total_products": 33,
+                "title": "Tickets",
+                "id": "Tickets"
+              },
+              {
+                "label": "Experiences",
+                "value": "Experiences",
+                "key": "experiences",
+                "total_products": 1,
+                "title": "Experiences",
+                "id": "Experiences"
+              }
+            ],
+            "filter_type_key": "list"
+          }
+        ],
+        "updated_at": "2022-07-18T10:11:48.853000Z",
+        "created_at": "2022-07-18T10:07:48.485000Z",
+        "id": "62d530f4b24fbfe0c8021b52"
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{% raw %}
+    <div class="ets_fs_sd_tab">
+        <ul>
+            {% for tab in tabs %}
+{% comment %} Wholesale_Club_Product_Visibility_For_Loop Start {% endcomment %}
+{%- capture hide_resource -%}{% render "wc_product_visibility", resource: tab %}{%- endcapture -%}
+{%- if hide_resource == "true" -%}
+  {% continue %}
+{%- endif -%}
+{% comment %} Wholesale_Club_Product_Visibility_For_Loop End {% endcomment %}
+
+            {% assign label = tab.label %}
+            {% if label == "" or label == null %}
+            {% assign label = tab.search_result %}
+            {% endif %}
+            {% assign product_has_filter = tab.value == 'products' and has_filter %}
+                {% if product_has_filter or tab.total > 0 %}
+                    <li data-tab="{{ tab.value }}" class="tab-item tab-{{ tab.value }} {% if tab.active %} ets_fs_active {% endif %}">
+                        <span>{{ label }}</span>
+                        <span class="total">({{ tab.total }})</span>
+                    </li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+{% endraw %}

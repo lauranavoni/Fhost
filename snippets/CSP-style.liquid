@@ -1,0 +1,12 @@
+{% assign slideShowSetting = shop.metafields.slider_app.setting.value %}
+                    {%- style -%}
+                    .swiper .swiper-button-next:after,.swiper .swiper-button-prev:after{color:{{ slideShowSetting.arrow }}}
+                    .swiper .swiper-pagination-bullet{background-color:{{ slideShowSetting.bullets }};opacity: 1;}
+                    .swiper .swiper-pagination-bullet.swiper-pagination-bullet-active{background-color:{{ slideShowSetting.bullets_active }}}
+                    .swiper .swiper-pagination-fraction{color:{{ slideShowSetting.fraction_total }}}
+                    .swiper .swiper-pagination-fraction .swiper-pagination-current{color:{{ slideShowSetting.fraction_current }}}
+                    .swiper .swiper-pagination-progressbar{background-color:{{ slideShowSetting.progressbar }}}
+                    .swiper .swiper-pagination-progressbar .swiper-pagination-progressbar-fill{background-color:{{ slideShowSetting.progressbar_drag }}}
+                    .swiper .swiper-scrollbar{background-color:{{ slideShowSetting.scrollbar }}}
+                    .swiper .swiper-scrollbar .swiper-scrollbar-drag{background-color:{{ slideShowSetting.scrollbar_drag }}}
+                    {%- endstyle -%}

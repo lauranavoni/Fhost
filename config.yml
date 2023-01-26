@@ -15,7 +15,7 @@
 
 development:
   password: shptka_d8d6fb061fd4a3a35dccf8b225a16775
-  theme_id: 135569113321
+  theme_id: "135569113321"
   store: tickets-footballhost.myshopify.com
 
 
